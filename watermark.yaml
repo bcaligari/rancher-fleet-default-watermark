@@ -5,4 +5,4 @@ data:
 kind: ConfigMap
 metadata:
   creationTimestamp: null
-  name: b-fleet-watermark
+  name: watermark
