@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  colour: olive green
+  scent: lavender
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: b-fleet-watermark
